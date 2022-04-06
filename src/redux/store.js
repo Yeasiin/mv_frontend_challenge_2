@@ -16,7 +16,6 @@ import todoSlice from "./todoSlice";
 const persistConfig = {
   key: "redux-todo",
   storage,
-  whitelist: ["todos"],
 };
 
 const reducers = combineReducers({

@@ -10,7 +10,7 @@ const initialState = {
     },
     {
       id: "2",
-      title: "Prepare for implementation	",
+      title: "Prepare for implementation",
       details:
         "Identify the implementation team, Order the server hardware for production as well as test/quality assurance (QA), Order console machines, Order console machines, Identify the test LPAR, Identify production LPARs ",
     },
